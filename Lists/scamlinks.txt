@@ -263,6 +263,7 @@ disco.to
 disco3d.app
 discoard.com
 discocord.com
+discocrd.com
 discod.art
 discod.fun
 discod.gift
